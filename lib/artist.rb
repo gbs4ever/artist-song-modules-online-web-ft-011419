@@ -28,5 +28,5 @@ include  Paramable
     songs.each { |song| add_song(song) }
   end
 
-  
+
 end
